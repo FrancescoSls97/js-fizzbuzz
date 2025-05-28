@@ -2,7 +2,11 @@
 Prima di partire a scrivere codice poniamoci qualche domanda: Come faccio a sapere se un numero è divisibile per? Abbiamo visto qualcosa di particolare che possiamo usare? */
 
 // Stampare in console numeri da 1 a 100 tramuite for loop
-
+    
 // Per ogni multiplo di 3 va stampato "Fizz", possiamo usare ( i % numero == 0) per trovare i valori interessati e stampiamo in console tramite un if che specifica la condizione desiderata
 
 // Eseguiamo gli stessi passaggi della riga 6 sostituendo 5 a 3
+
+for (let i = 1; i <= 100; i++)
+    console.log(i);
+    
