@@ -1,2 +1,8 @@
 /* Scrivi un programma che stampi i numeri da 1 a 100, ma per i multipli di 3 stampi “Fizz” al posto del numero e per i multipli di 5 stampi Buzz. Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 Prima di partire a scrivere codice poniamoci qualche domanda: Come faccio a sapere se un numero è divisibile per? Abbiamo visto qualcosa di particolare che possiamo usare? */
+
+// Stampare in console numeri da 1 a 100 tramuite for loop
+
+// Per ogni multiplo di 3 va stampato "Fizz", possiamo usare ( i % numero == 0) per trovare i valori interessati e stampiamo in console tramite un if che specifica la condizione desiderata
+
+// Eseguiamo gli stessi passaggi della riga 6 sostituendo 5 a 3
