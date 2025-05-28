@@ -7,6 +7,13 @@ Prima di partire a scrivere codice poniamoci qualche domanda: Come faccio a sape
 
 // Eseguiamo gli stessi passaggi della riga 6 sostituendo 5 a 3
 
-for (let i = 1; i <= 100; i++)
-    console.log(i);
+for (let i = 1; i <= 100; i++) {
+    console.log(i); 
+    
+    if ( i % 3 == 0){
+
+        console.log("Fizz")
+    }
+}
+
     
